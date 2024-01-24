@@ -10,6 +10,7 @@ export interface TokenMetadataAndChainAddresses {
         [ChainId.Rinkeby]: string;
         [ChainId.Ropsten]: string;
         [ChainId.Goerli]: string;
+        [ChainId.Base]: string;
         [ChainId.BSC]: string;
         [ChainId.Polygon]: string;
         [ChainId.PolygonMumbai]: string;
