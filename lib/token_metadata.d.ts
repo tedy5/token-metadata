@@ -16,6 +16,7 @@ export interface TokenMetadataAndChainAddresses {
         [ChainId.PolygonMumbai]: string;
         [ChainId.Avalanche]: string;
         [ChainId.Fantom]: string;
+        [ChainId.Sepolia]: string;
         [ChainId.Celo]: string;
         [ChainId.Optimism]: string;
         [ChainId.ArbitrumRinkeby]: string;
